@@ -299,8 +299,11 @@ footer nav a {
     flex-wrap: wrap; */
 
 article {
+
     /* border: 2px solid salmon; */
 }
+
+
 
 .top-articles {
     /* border: 2px solid slateblue; */
@@ -321,4 +324,8 @@ article {
 
 .bottom-article {
     margin: 30px;
+}
+
+.middle-img-about {
+    width: 90%;
 }
