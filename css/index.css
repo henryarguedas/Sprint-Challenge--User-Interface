@@ -78,6 +78,7 @@ p {
     display:flex;
     justify-content: space-between;
     align-content: center;
+    padding: 30px;
 
 }
 
@@ -316,4 +317,8 @@ article {
     border-top: 1px dashed black;
     margin: 20px;
     padding: 15px;
+}
+
+.bottom-article {
+    margin: 30px;
 }
