@@ -312,13 +312,14 @@ article {
     margin: 20px;
     padding: 15px;
     
+    
 }
 
 .middle-articles {
     /* border: 2px solid darkred; */
     display: flex;
-    border-bottom: 1px dashed black;
-    border-top: 1px dashed black;
+    /* border-bottom: 1px dashed black; */
+    /* border-top: 1px dashed black; */
     margin: 20px;
     padding: 15px;
 }
@@ -349,4 +350,8 @@ article {
 .btn-about:hover {
     background: black;
     color: white;
+}
+
+.middle-article-individual {
+    border-bottom: 1px dashed black;
 }
