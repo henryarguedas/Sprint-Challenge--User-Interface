@@ -111,6 +111,7 @@ p {
 }
 
 .top-content {
+    
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
@@ -286,4 +287,14 @@ footer nav {
 footer nav a {
     color: white;
     text-decoration: none;
+}
+
+.about-page {
+    border: 2px solid blue;
+    /* display: flex;
+    flex-wrap: wrap; */
+}
+
+article {
+    border: 2px solid salmon;
 }
