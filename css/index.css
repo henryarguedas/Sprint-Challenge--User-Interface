@@ -336,3 +336,17 @@ article {
     padding-bottom: 10px;
     
 }
+
+.btn-about {
+    width: 110px;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    background: white;
+    border: 2px solid black;
+}
+
+.btn-about:hover {
+    background: black;
+    color: white;
+}
