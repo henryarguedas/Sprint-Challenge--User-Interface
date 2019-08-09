@@ -298,3 +298,14 @@ footer nav a {
 article {
     border: 2px solid salmon;
 }
+
+.top-articles {
+    border: 2px solid slateblue;
+    display: flex;
+    
+}
+
+.middle-articles {
+    border: 2px solid darkred;
+    display: flex;
+}
