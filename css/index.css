@@ -329,7 +329,7 @@ article {
 }
 
 .middle-img-about {
-    width: 90%;
+    width: 95%;
 }
 
 .about-top-article {
@@ -354,4 +354,5 @@ article {
 
 .middle-article-individual {
     border-bottom: 1px dashed black;
+    
 }
