@@ -73,7 +73,7 @@ p {
 
 
 .header-nav-bar {
-    border: 2px solid blue;
+    /* border: 2px solid blue; */
     width: 800px;
     display:flex;
     justify-content: space-between;
@@ -82,7 +82,7 @@ p {
 }
 
 .main-nav {
-    border: 2px solid red;
+    /* border: 2px solid red; */
     width: 70%;
     display: flex;
     justify-content: space-around;
@@ -97,7 +97,7 @@ p {
     
     display: flex;
     justify-content:flex-start;
-    border: 2px solid rgb(5, 172, 102);
+    /* border: 2px solid rgb(5, 172, 102); */
 }
 
 
@@ -106,8 +106,9 @@ p {
 }
 
 .top-articles-home {
-    border: 2px solid red;
+    /* border: 2px solid red; */
     display: flex;
+    border-bottom: 1px dashed black;
 }
 
 .top-content {
@@ -291,23 +292,28 @@ footer nav a {
     text-decoration: none;
 }
 
-.about-page {
+/* .about-page {
     border: 2px solid blue;
     /* display: flex;
     flex-wrap: wrap; */
-}
 
 article {
-    border: 2px solid salmon;
+    /* border: 2px solid salmon; */
 }
 
 .top-articles {
-    border: 2px solid slateblue;
+    /* border: 2px solid slateblue; */
     display: flex;
+    margin: 20px;
+    padding: 15px;
     
 }
 
 .middle-articles {
-    border: 2px solid darkred;
+    /* border: 2px solid darkred; */
     display: flex;
+    border-bottom: 1px dashed black;
+    border-top: 1px dashed black;
+    margin: 20px;
+    padding: 15px;
 }
