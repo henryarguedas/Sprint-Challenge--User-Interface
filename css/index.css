@@ -271,11 +271,13 @@ p {
 }
 
 footer {
+    max-width: 800px;
     width: 100%;
     background: black;
 }
 
 footer nav {
+    
     width: 60%;
     display: flex;
     justify-content: space-between;
